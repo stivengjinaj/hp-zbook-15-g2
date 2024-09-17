@@ -2,9 +2,9 @@
 
 ## Hardware
 
-CPU: Intel Core I7 4810MQ 
-IGPU: Intel HD Graphics 4600
-DGPU: NVIDIA QUADRO K2100M
+- CPU: Intel Core I7 4810MQ
+- IGPU: Intel HD Graphics 4600
+- DGPU: NVIDIA QUADRO K2100M
 
 ## What's working:
 
