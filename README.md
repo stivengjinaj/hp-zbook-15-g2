@@ -6,6 +6,12 @@
 - IGPU: Intel HD Graphics 4600
 - DGPU: NVIDIA QUADRO K2100M
 
+### Ventura
+
+
+![Ventura](https://github.com/stivengjinaj/hp-zbook-15-g2/blob/main/Ventura.png)
+
+
 ## What's working:
 
 Basically everything.
