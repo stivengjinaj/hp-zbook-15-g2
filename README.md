@@ -9,7 +9,7 @@
 ## What's working:
 
 Basically everything.
-I have used Monterey (heavily) for 1 year as a daily driver and it worked perfectly smooth.
+I have used Monterey (heavily) for 2 years daily and it worked perfectly smooth.
 Recently installed Ventura. Until now, everything works:
 
 1) Graphics acceleration with OCLP
@@ -24,4 +24,10 @@ Recently installed Ventura. Until now, everything works:
 
 1) Trackpad after sleep
 2) SD Card reader
-3) ecc. need testing
+3) Disabling DGPU with SSDT works but fan spins faster than it should even though the pc is way cooler than without the SSDT. Until further testing, better use `-wegnoegpu` without SSDT.
+4) ecc. need testing
+
+## Sequoia:
+Added test EFI for macOS 15 Sequoia. Graphics acceleration with OCLP 2.1.0 nightly.
+Seems to work fine until now. Trackpad works after sleep, but overall is not as smooth as
+in Monterey and Ventura. Other things need testing.
