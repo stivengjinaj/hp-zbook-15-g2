@@ -9,7 +9,7 @@
 ## What's working:
 
 Basically everything.
-I have used Monterey (heavily) for 1 year as a daily driver and it worked perfectly smooth.
+I have used Monterey (heavily) for 2 years daily and it worked perfectly smooth.
 Recently installed Ventura. Until now, everything works:
 
 1) Graphics acceleration with OCLP
